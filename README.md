@@ -6,8 +6,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Javascript and its libraries
-](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on Javascript and it's libraries
+
 
 - 🌱 I’m currently learning **React&Vue&Libraries with js**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **birkerenn@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the basketbol very often.**
+  - ⚡ Fun fact **I play games and go to the basketbol very often.**
 
 ## 🚀 Languages and Tools:
 
