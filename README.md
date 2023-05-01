@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm a passionate Frontend Developer from Turkey.</h3>
 
-<img style=" position: fixed; margin: 15px;" src = "https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif"   margin="100px" align="right" widht= "250px" height = "200px"></img>
+<img style=" position: fixed; margin: 115px;" src = "https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif"   margin="100px" align="right" widht= "250px" height = "200px"></img>
 
 ## 🙋‍♂️ About Me
 
