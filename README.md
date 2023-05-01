@@ -18,7 +18,7 @@
 - 📫 How to reach me **birkerenn@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the basketbol very often.**
-<img src "https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif" align ="right" widht= "350px" height = "200px"></img>
+<img src = "https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif" align ="right" widht= "350px" height = "200px"></img>
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
