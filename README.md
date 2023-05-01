@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **birkerenn@gmail.com**
 
-  - ⚡ Fun fact **I play games and go to the basketbol very often.**
+- ⚡ Fun fact **I play games and go to the basketbol very often.**
 
 ## 🚀 Languages and Tools:
 
