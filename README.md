@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eren</h1>
-<iframe src="https://giphy.com/embed/vSY1KgWZke6Os" width="480" height="372" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/film-robert-de-niro-casino-vSY1KgWZke6Os">via GIPHY</a></p>
+
 <h3 align="center">I'm a passionate Frontend Developer from Turkey.</h3>
 
 
