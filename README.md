@@ -1,9 +1,9 @@
-<img style=" position: fixed; margin: 115px;" src = "https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif"   margin="100px" align="right" widht= "250px" height = "200px"></img>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eren</h1>
 
 <h3 align="center">I'm a passionate Frontend Developer from Turkey.</h3>
 
-
+<img style=" position: fixed; margin: 115px;" src = "https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif"   margin="100px" align="right" widht= "250px" height = "200px"></img>
 
 ## 🙋‍♂️ About Me
 
@@ -13,7 +13,7 @@
 - 📫 How to reach me **birkerenn@gmail.com**
 - ⚡ Fun fact **I play games and go to the basketbol very often.**
 ## 🚀 Languages and Tools:
-
+<img style=" position: fixed; margin: 115px;" src = "https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif"   margin="100px" align="right" widht= "250px" height = "200px"></img>
 <p align="left"> 
     <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>  -->
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
