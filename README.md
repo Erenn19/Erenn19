@@ -11,6 +11,9 @@
 - 🧑‍💻 I’m looking to collaborate on **OpenSource Projects and Startup**
 - 📫 How to reach me **birkerenn@gmail.com**
 - ⚡ Fun fact **I play games and go to the basketbol very often.**
+
+<img style=" position: fixed; margin: 115px;" src = "https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif"   margin="100px" align="right" widht= "250px" height = "200px"></img>
+
 ## 🚀 Languages and Tools:
 <img style=" position: fixed; margin: 115px;" src = "https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif"   margin="100px" align="right" widht= "250px" height = "200px"></img>
 <p align="left"> 
