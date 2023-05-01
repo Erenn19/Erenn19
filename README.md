@@ -81,11 +81,12 @@
 </a>
 <a href="https://github.com/Erenn19?tab=followers"><img src="https://img.shields.io/github/followers/Erenn19?label=Followers&style=social" alt="GitHub Badge"></a>
 <h1>CERTİFİCATES:</h1>
-
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/79603569/180178272-386827c1-bfca-4542-baeb-61cdffb47913.png">
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/79603569/180178900-ff1973c9-9956-470b-acfd-a2bd33cb4bd8.png">
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/79603569/180179218-fa51e19f-a6cb-4211-a029-5891a5367058.png">
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/79603569/180179551-0cbafc00-4c3d-4027-89d3-24ccdb70a2d8.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/79603569/180178272-386827c1-bfca-4542-baeb-61cdffb47913.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/79603569/180178900-ff1973c9-9956-470b-acfd-a2bd33cb4bd8.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/79603569/180179218-fa51e19f-a6cb-4211-a029-5891a5367058.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/79603569/180179551-0cbafc00-4c3d-4027-89d3-24ccdb70a2d8.png">
+ 
+        
         
 ## 💛 If you want to support me 💛
 <a href="https://www.buymeacoffee.com/birkerenn1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>        
