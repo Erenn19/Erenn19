@@ -7,18 +7,10 @@
 
 ## 🙋‍♂️ About Me
 
-
 - 🔭 I’m currently working on Javascript and it's libraries
-
-
 - 🌱 I’m currently learning **React&Vue&Libraries with js**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects and Startup**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Erenn19)**
-
+- 🧑‍💻 I’m looking to collaborate on **OpenSource Projects and Startup**
 - 📫 How to reach me **birkerenn@gmail.com**
-
 - ⚡ Fun fact **I play games and go to the basketbol very often.**
 ## 🚀 Languages and Tools:
 
