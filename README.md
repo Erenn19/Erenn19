@@ -3,10 +3,10 @@
 
 <h3 align="center">I'm a passionate Frontend Developer from Turkey.</h3>
 
+<img src = "https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif" align ="right" widht= "250px" height = "200px"></img>
 
 ## 🙋‍♂️ About Me
 
-<img src = "https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif" align ="right" widht= "250px" height = "200px"></img>
 
 - 🔭 I’m currently working on Javascript and it's libraries
 
