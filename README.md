@@ -6,12 +6,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Javascript and it's librarie
+- I’m currently working on Javascript and it's librarie
 <img style=" position: fixed; margin: 115px;" src = "https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif"   margin="100px" align="right" widht= "250px" height = "200px"></img>
-- 🌱 I’m currently learning **React&Vue&Libraries with js**
-- 🧑‍💻 I’m looking to collaborate on **OpenSource Projects and Startup**
-- 📫 How to reach me **birkerenn@gmail.com**
-- ⚡ Fun fact **I play games and go to the basketbol very often.**
+- How to reach me **birkerenn@gmail.com**
 
 
 ## 🚀 Languages and Tools:
