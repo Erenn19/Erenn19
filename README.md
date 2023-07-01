@@ -4,7 +4,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 🔭 I’m currently working on Javascript and it's librarie
 <img style=" position: fixed; margin: 115px;" src = "https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif"   margin="100px" align="right" widht= "250px" height = "200px"></img>
